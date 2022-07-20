@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @matiasguzlop
-- I'm an Electronics Engineer and entry level fullstack SERN developer 
+- I'm an Electronics Engineer and entry level fullstack SERN/MERN developer 
 - 👀 I’m interested in a lot of things, here are some of them:
   - ESP32, Micropython, ESP-IDF, IoT.
   - PCB design with kicad.
